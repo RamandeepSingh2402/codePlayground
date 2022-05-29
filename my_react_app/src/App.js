@@ -9,7 +9,15 @@ const Person = (props) =>{
     </>
   );
 }
-const App = () => {
+
+const Button = () =>{
+  return (
+    <Button >
+      Let's Chat
+    </Button>
+  )
+}
+const App = () => { 
   const name = "John";
   const isNameShowing = true;
   return (
@@ -19,11 +27,13 @@ const App = () => {
         LName ={"Doe"} 
         Age={25}
       />
+      <Button />
       <Person
         FName= {"Mary"} 
         LName={"Doe"} 
         Age={24}
       />
+      <Button />
     </div>
   );
 }  
