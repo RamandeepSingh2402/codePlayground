@@ -1,0 +1,13 @@
+# ninja log v5
+1	809	6758843889294958	CMakeFiles/drawingShapes.dir/main.cpp.obj	5595dfaf7c32ee1f
+812	1098	6758843892151132	drawingShapes.exe	ce29a1a8e8d6f836
+2	284	6758846057110319	CMakeFiles/drawingShapes.dir/main.cpp.obj	5595dfaf7c32ee1f
+284	388	6758846058115774	drawingShapes.exe	ce29a1a8e8d6f836
+3	274	6758847287467272	CMakeFiles/drawingShapes.dir/main.cpp.obj	5595dfaf7c32ee1f
+275	389	6758847288578519	drawingShapes.exe	ce29a1a8e8d6f836
+3	296	6758848394674297	CMakeFiles/drawingShapes.dir/main.cpp.obj	5595dfaf7c32ee1f
+296	412	6758848395802176	drawingShapes.exe	ce29a1a8e8d6f836
+2	285	6758848866080585	CMakeFiles/drawingShapes.dir/main.cpp.obj	5595dfaf7c32ee1f
+285	408	6758848867313030	drawingShapes.exe	ce29a1a8e8d6f836
+3	289	6758849168779824	CMakeFiles/drawingShapes.dir/main.cpp.obj	5595dfaf7c32ee1f
+300	396	6758849169853394	drawingShapes.exe	ce29a1a8e8d6f836
