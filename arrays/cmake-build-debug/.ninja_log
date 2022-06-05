@@ -1,0 +1,11 @@
+# ninja log v5
+0	260	6761688134102730	CMakeFiles/arrays.dir/main.cpp.obj	e5bc9a17cc44573e
+261	358	6761688135054332	arrays.exe	fc0a3babe471adcd
+3	259	6761689215057878	CMakeFiles/arrays.dir/main.cpp.obj	e5bc9a17cc44573e
+260	368	6761689216134174	arrays.exe	fc0a3babe471adcd
+3	335	6761690066211680	CMakeFiles/arrays.dir/main.cpp.obj	e5bc9a17cc44573e
+336	441	6761690067230687	arrays.exe	fc0a3babe471adcd
+3	237	6761690175158026	CMakeFiles/arrays.dir/main.cpp.obj	e5bc9a17cc44573e
+237	329	6761690176081870	arrays.exe	fc0a3babe471adcd
+3	245	6761696576278461	CMakeFiles/arrays.dir/main.cpp.obj	e5bc9a17cc44573e
+246	353	6761696577320225	arrays.exe	fc0a3babe471adcd
