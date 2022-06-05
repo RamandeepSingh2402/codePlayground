@@ -52,7 +52,7 @@ int main() {
     cout<<wNum+dNum<<endl;
 
 
-    // using the math functions
+    // started using the MATH functions
 
     // using the power function
     cout<<pow(2,3)<<endl;
