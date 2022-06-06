@@ -2,7 +2,7 @@
 
 using namespace std;
 
-// sayHi() function
+// Person() function
 void Person(string name, int age){
     cout<<"Hello " << name << " you are " <<age << " years old."<<endl;
 }
