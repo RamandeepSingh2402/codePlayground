@@ -1,0 +1,9 @@
+# ninja log v5
+0	278	6762535694899500	CMakeFiles/loopsInCpp.dir/main.cpp.obj	48bdb0de111a4a7d
+280	376	6762535695864007	loopsInCpp.exe	fc1964ba79f6c4d0
+2	238	6762535776954455	CMakeFiles/loopsInCpp.dir/main.cpp.obj	48bdb0de111a4a7d
+238	347	6762535778019046	loopsInCpp.exe	fc1964ba79f6c4d0
+3	242	6762535881649692	CMakeFiles/loopsInCpp.dir/main.cpp.obj	48bdb0de111a4a7d
+242	342	6762535882624984	loopsInCpp.exe	fc1964ba79f6c4d0
+3	289	6762536203519380	CMakeFiles/loopsInCpp.dir/main.cpp.obj	48bdb0de111a4a7d
+290	392	6762536204505578	loopsInCpp.exe	fc1964ba79f6c4d0
