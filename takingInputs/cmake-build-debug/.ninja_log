@@ -1,0 +1,17 @@
+# ninja log v5
+0	307	6761668679021352	CMakeFiles/takingInputs.dir/main.cpp.obj	417dd8dff487d419
+310	442	6761668680332365	takingInputs.exe	807b6a434143545e
+3	244	6761669240069785	CMakeFiles/takingInputs.dir/main.cpp.obj	417dd8dff487d419
+245	332	6761669240930257	takingInputs.exe	807b6a434143545e
+3	235	6761669517122214	CMakeFiles/takingInputs.dir/main.cpp.obj	417dd8dff487d419
+235	330	6761669518034497	takingInputs.exe	807b6a434143545e
+2	245	6761670636854865	CMakeFiles/takingInputs.dir/main.cpp.obj	417dd8dff487d419
+246	346	6761670637848289	takingInputs.exe	807b6a434143545e
+2	248	6761670902156412	CMakeFiles/takingInputs.dir/main.cpp.obj	417dd8dff487d419
+249	331	6761670902947058	takingInputs.exe	807b6a434143545e
+2	249	6761672025866706	CMakeFiles/takingInputs.dir/main.cpp.obj	417dd8dff487d419
+259	372	6761672027063992	takingInputs.exe	807b6a434143545e
+3	244	6761675519027916	CMakeFiles/takingInputs.dir/main.cpp.obj	417dd8dff487d419
+244	341	6761675519997868	takingInputs.exe	807b6a434143545e
+2	252	6761675681868859	CMakeFiles/takingInputs.dir/main.cpp.obj	417dd8dff487d419
+252	345	6761675682778039	takingInputs.exe	807b6a434143545e
