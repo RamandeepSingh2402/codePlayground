@@ -1,0 +1,9 @@
+# ninja log v5
+1	250	6762581992571640	CMakeFiles/exponentFunc.dir/main.cpp.obj	cd9122bcf6916d24
+252	354	6762581993592672	exponentFunc.exe	5b978657dd572499
+4	247	6762582832265388	CMakeFiles/exponentFunc.dir/main.cpp.obj	cd9122bcf6916d24
+248	367	6762582833438063	exponentFunc.exe	5b978657dd572499
+2	231	6762583485135738	CMakeFiles/exponentFunc.dir/main.cpp.obj	cd9122bcf6916d24
+232	336	6762583486137949	exponentFunc.exe	5b978657dd572499
+3	238	6762583719931077	CMakeFiles/exponentFunc.dir/main.cpp.obj	cd9122bcf6916d24
+239	333	6762583720851763	exponentFunc.exe	5b978657dd572499
