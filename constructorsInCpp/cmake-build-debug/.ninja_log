@@ -1,0 +1,11 @@
+# ninja log v5
+0	245	6763010539891202	CMakeFiles/constructorsInCpp.dir/main.cpp.obj	8afb1e3b3d62f21d
+247	425	6763010541300110	constructorsInCpp.exe	bf2c7778e2761f49
+2	222	6763010627390929	CMakeFiles/constructorsInCpp.dir/main.cpp.obj	8afb1e3b3d62f21d
+223	307	6763010628217271	constructorsInCpp.exe	bf2c7778e2761f49
+2	242	6763010746627971	CMakeFiles/constructorsInCpp.dir/main.cpp.obj	8afb1e3b3d62f21d
+242	343	6763010747617494	constructorsInCpp.exe	bf2c7778e2761f49
+3	248	6763011346827875	CMakeFiles/constructorsInCpp.dir/main.cpp.obj	8afb1e3b3d62f21d
+248	332	6763011347636489	constructorsInCpp.exe	bf2c7778e2761f49
+2	233	6763013682628359	CMakeFiles/constructorsInCpp.dir/main.cpp.obj	8afb1e3b3d62f21d
+233	312	6763013683389388	constructorsInCpp.exe	bf2c7778e2761f49
