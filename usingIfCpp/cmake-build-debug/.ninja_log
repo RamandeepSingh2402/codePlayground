@@ -1,0 +1,27 @@
+# ninja log v5
+0	230	6761751195704735	CMakeFiles/usingIfCpp.dir/main.cpp.obj	44659e497f3ba9e2
+241	319	6761751196573564	usingIfCpp.exe	cfafc3f298f3caf7
+3	233	6761751480708490	CMakeFiles/usingIfCpp.dir/main.cpp.obj	44659e497f3ba9e2
+233	319	6761751481538441	usingIfCpp.exe	cfafc3f298f3caf7
+2	224	6761751796703063	CMakeFiles/usingIfCpp.dir/main.cpp.obj	44659e497f3ba9e2
+224	306	6761751797525260	usingIfCpp.exe	cfafc3f298f3caf7
+2	234	6761752166081254	CMakeFiles/usingIfCpp.dir/main.cpp.obj	44659e497f3ba9e2
+234	326	6761752166977870	usingIfCpp.exe	cfafc3f298f3caf7
+3	250	6761753707253171	CMakeFiles/usingIfCpp.dir/main.cpp.obj	44659e497f3ba9e2
+251	342	6761753708139395	usingIfCpp.exe	cfafc3f298f3caf7
+2	247	6761755611169051	CMakeFiles/usingIfCpp.dir/main.cpp.obj	44659e497f3ba9e2
+258	343	6761755612122278	usingIfCpp.exe	cfafc3f298f3caf7
+4	248	6761755916121701	CMakeFiles/usingIfCpp.dir/main.cpp.obj	44659e497f3ba9e2
+248	339	6761755917001130	usingIfCpp.exe	cfafc3f298f3caf7
+3	261	6761756004973809	CMakeFiles/usingIfCpp.dir/main.cpp.obj	44659e497f3ba9e2
+261	357	6761756005900846	usingIfCpp.exe	cfafc3f298f3caf7
+2	267	6761756089735093	CMakeFiles/usingIfCpp.dir/main.cpp.obj	44659e497f3ba9e2
+268	352	6761756090573581	usingIfCpp.exe	cfafc3f298f3caf7
+3	247	6761756230877746	CMakeFiles/usingIfCpp.dir/main.cpp.obj	44659e497f3ba9e2
+248	340	6761756231761185	usingIfCpp.exe	cfafc3f298f3caf7
+4	291	6761756369199868	CMakeFiles/usingIfCpp.dir/main.cpp.obj	44659e497f3ba9e2
+291	386	6761756370130285	usingIfCpp.exe	cfafc3f298f3caf7
+3	430	6762489481342443	CMakeFiles/usingIfCpp.dir/main.cpp.obj	44659e497f3ba9e2
+431	786	6762489484875919	usingIfCpp.exe	cfafc3f298f3caf7
+2	285	6762494986186759	CMakeFiles/usingIfCpp.dir/main.cpp.obj	44659e497f3ba9e2
+285	396	6762494987287255	usingIfCpp.exe	cfafc3f298f3caf7
