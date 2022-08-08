@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="daa27b79-a871-4cb9-a04b-b8d71a3cb70c" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/codePlayground.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/codePlayground.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,6 +44,7 @@
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
+    <property name="ts.external.directory.path" value="C:\Program Files\JetBrains\IntelliJ IDEA 2021.3.1\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
   </component>
   <component name="RunManager" selected="Application.printingHelloRecursion">
     <configuration name="PalindromeStringBuilder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -78,6 +78,8 @@
       <updated>1655167899258</updated>
       <workItem from="1655167900467" duration="1163000" />
       <workItem from="1658784608662" duration="2363000" />
+      <workItem from="1659384571608" duration="2000" />
+      <workItem from="1659741730218" duration="23000" />
     </task>
     <servers />
   </component>
